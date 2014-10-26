@@ -1,1 +1,10 @@
-Copyright 2014 zakhooitm
+Copyleft 2014 zakhooitm
+Based on other public information and work from :
+Giovanni83 (Arduino Forums, original creator of this library) http://forum.arduino.cc/index.php?&topic=78634.0
+William Greiman (I2cMaster Library)
+Claas Anders "CaScAdE" Rathje (Parity bit checks) http://www.mylifesucks.de/oss/c-tid/
+Posters from this forum : http://www.mikrocontroller.net/topic/19516
+
+Originaly this library was written for the 8 Digit display. 
+I've modified and worked out some timings and made all the icons work correctly
+This fork of the library for the display will refresh quicker but also be more reliable.
